@@ -1,0 +1,31 @@
+img
+{
+	width:35%;
+	margin-left:30%;
+	margin-top:5%;
+	border-style:solid;
+	border-color:white;
+	border-width:7px;
+	
+}
+body
+{
+	background-color:MediumSpringGreen;
+}
+p
+{
+	font-size:25px;
+	text-align:center;
+	font-family:system-ui;
+	color:black;
+}
+h1
+{
+	text-align:center;
+	color:white;
+}
+#no1
+{
+	font-size:30px;
+	cursor:pointer;
+}

@@ -1,0 +1,29 @@
+img
+{
+	width:35%;
+	margin-left:30%;
+	margin-top:5%;
+	border-style:solid;
+	border-color:white;
+	border-width:7px;
+	
+}
+body
+{
+	background-color:grey;
+}
+p
+{
+	font-size:20px;
+	text-align:center;
+	font-family:system-ui;
+}
+h1
+{
+	text-align:center;
+}
+#no1
+{
+	font-size:30px;
+	cursor:pointer;
+}

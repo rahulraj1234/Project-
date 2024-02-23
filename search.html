@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Search</title>
+		<link rel="stylesheet" href="srh.css">
+	</head>
+	<body>
+		<font>Enter the product name</font>
+		<div class="container">
+			<form action="" class="search-bar">
+				<input type="search" placeholder="Enter item"  id="search">
+				<button type="submit"><img src="search.png" onClick="openpage()"></button>
+				<script>
+					function openpage()
+					{
+						var x=document.getElementById("search").value;
+						if(x==="plastic")
+						{
+							window.open("plastic.html");
+						}
+					}
+				</script>
+			</form>
+		</div>
+	</body>
+</html>
+
